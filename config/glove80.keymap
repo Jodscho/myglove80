@@ -85,12 +85,12 @@
 
         doublequotes {
             bindings = <&kp DOUBLE_QUOTES>;
-            key-positions = <26 25>;
+            key-positions = <26 24>;
         };
 
         singlequotes {
             bindings = <&kp SINGLE_QUOTE>;
-            key-positions = <37 38>;
+            key-positions = <38 36>;
         };
 
         ampsand {
